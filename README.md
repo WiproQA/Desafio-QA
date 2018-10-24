@@ -31,7 +31,9 @@ usuário: supplier@phptravels.com <br/>
 senha: demosupplier
 
 Obrigatório: Utilizar conceito de PageObjects.<br/>
-Diferencial: Geração dinâmica de dados e escolha aleatória na seleção das opções (combo boxes, check boxes, etc).
+Diferenciais: <br/>
+Geração dinâmica de dados e escolha aleatória na seleção das opções (combo boxes, check boxes, etc). <br/>
+Leitura e gravação de dados em planilhas.
 
 
 # Desafio 2 - Cadastro de um novo ACCOUNTS
@@ -42,7 +44,9 @@ usuário: admin@phptravels.com <br/>
 senha: demoadmin<br/>
 
 Obrigatório:: Utilizar conceito de PageObjects. <br/>
-Diferencial: Geração dinâmica de dados para efetuar o cadastro.<br/>
+Diferenciais: <br/>
+Geração dinâmica de dados <br/>
+Leitura e gravação de dados em planilhas.
 
 # Importante
 Caso não consiga finalizar 100% do projeto, nos envie mesmo assim!
